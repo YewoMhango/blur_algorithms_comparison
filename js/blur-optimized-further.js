@@ -1,5 +1,5 @@
-const width = 500,
-  height = 500,
+const width = 1920,
+  height = 1080,
   size = width * height,
   radius = 32;
 
