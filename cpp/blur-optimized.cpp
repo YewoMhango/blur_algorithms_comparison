@@ -8,8 +8,8 @@ using namespace std;
 using namespace chrono;
 
 const int width = 1920,
-          height = 1200,
-          radius = 15;
+          height = 1080,
+          radius = 32;
 const long size = width * height;
 
 short unsigned firstNewBand[size];
