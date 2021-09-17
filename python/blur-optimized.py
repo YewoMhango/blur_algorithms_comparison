@@ -2,8 +2,8 @@ import math
 import random
 import time
 
-WIDTH = 500
-HEIGHT = 500
+WIDTH = 1920
+HEIGHT = 1080
 SIZE = WIDTH * HEIGHT
 RADIUS = 32
 
